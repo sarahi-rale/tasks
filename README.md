@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Replace onnx2tf usage from CLI to Python (#8429)

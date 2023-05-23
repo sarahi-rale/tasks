@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add OBB save_txt feature (#7450)

@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Elaborate Train and Predict mode docs arguments (#8137)

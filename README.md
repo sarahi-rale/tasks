@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Avoid creating -hub dir without processing images (#8334)

@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add estimate_speed(region_color) parameter (#8285)

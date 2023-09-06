@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add missing single-line docstrings (#8362)

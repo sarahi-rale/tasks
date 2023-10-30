@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.0.231 use new pyproject.toml (#7185)

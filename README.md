@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)

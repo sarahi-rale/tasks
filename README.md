@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update OpenVINO INT8 export (#7515)

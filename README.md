@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add Weights & Biases Docs integrations page (#7199)

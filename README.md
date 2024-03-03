@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Update Discord and Contributing Guide URLs (#9270)

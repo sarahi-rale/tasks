@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)

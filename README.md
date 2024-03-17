@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix PNNX ubuntu -> linux bug (#7050)

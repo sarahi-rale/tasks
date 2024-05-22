@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Auto-format by https://ultralytics.com/actions

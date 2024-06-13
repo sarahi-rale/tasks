@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+OpenVino 2024.0.0 (#8726)

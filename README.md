@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)

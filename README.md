@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Elaborate Train and Predict mode docs arguments (#8137)

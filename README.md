@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)

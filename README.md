@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
